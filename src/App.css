@@ -1,0 +1,45 @@
+.bp1 {
+  height: 100vh;
+  width: 100%;
+  background-color:#ffffff;
+}
+.bp2 {
+  height: 100%;
+  width: 40%;
+  background-color: #07A6FF;
+}
+.bp3 {
+  height: 60%;
+  width: 60%;
+  background-color:white;
+  border-radius: 10px;
+}
+.bp4{
+  height: 300px;
+  width: 70%;
+}
+.bp5{
+  height: 100vh;
+  width: 60%;
+}
+.tx-main{
+ font-family: 'Poppins', sans-serif;
+ font-size: 40px; 
+ font-weight: 400px;
+}
+.bg{
+  background-image: url('your-background-image.jpg');
+}
+.bp8{
+
+}
+.bp9{
+  height: 200px;
+  width: 100%;
+}
+.box-button{
+  height: 70px;
+  width: 70%;
+  background-color: #07A6FF;
+  border-radius: 10px;
+}

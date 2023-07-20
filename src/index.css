@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+  padding: 0;
+  box-sizing: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Border box solid -------- */
+.bs-r {
+  border: 2px solid red;
+}
+.bs-b {
+  border: 2px solid blue;
+}
+.bs-g {
+  border: 2px solid green;
+}
+/* Border box solid -------- */
+
+/* Flex---put function at mother------ */
+.fct {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+.fcb {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+.fcc {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+}
+.frl {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.frc {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.frr {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+.frc {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.frl {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+.frsa {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.frsb {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.frse {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.fcsa {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.fcsb {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.fcse {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.ai-c{
+  align-items: center;
+}
+.ai-b{
+ 
+}
+
+/* Flex--------- */
+
+/* Text-------- */
+.tx-t {
+  text-align: start;
+}
+.tx-c {
+  text-align: center;
+}
+.tx-b {
+  text-align: end;
+}
+.tx-l {
+  text-align: left;
+}
+.tx-r {
+  text-align: right;
+}
+/* Text-------- */
+
+/* Margin-------- */
+.mg-2 {
+  margin: 2px;
+}
+.mg-5 {
+  margin: 5px;
+}
+.mg-10 {
+  margin: 10px;
+}
+.mg-15 {
+  margin: 15px;
+}
+.mg-20 {
+  margin: 20px;
+}
+.mg-25 {
+  margin: 25px;
+}
+.mg-30 {
+  margin: 30px;
+}
+/* Margin-------- */
+/* Box-------- */
+.boxs-1{
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.boxt{
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+}
+/* Box-------- */
