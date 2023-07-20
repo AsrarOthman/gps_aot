@@ -18,7 +18,7 @@ function App() {
             <div className=" frc ai-c " style={{ marginTop: "50px" }}>
               <div className="">
                 <img
-                  src="./src/assets/aot-logo2.png"
+                  src="/src/assets/aot-logo2.png"
                   width="100px"
                   height="100px"
                 />
@@ -28,7 +28,7 @@ function App() {
               </div>
               <div className="">
                 <img
-                  src="./src/assets/logo.ong.png"
+                  src="/src/assets/logo.ong.png"
                   width="100px"
                   height="100px"
                 />
