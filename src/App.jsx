@@ -1,5 +1,7 @@
 import { useState } from "react";
 import "./App.css";
+import aotLogo from "./assets/aot-logo2.png";
+import wgpsLogo from "./assets/logo.ong.png";
 
 function App() {
   return (
@@ -17,17 +19,13 @@ function App() {
             </a>
             <div className=" frc ai-c " style={{ marginTop: "50px" }}>
               <div className="">
-                <img
-                  src="./assets/apt-logo2.png"
-                  width="100px"
-                  height="100px"
-                />
+                <img src={aotLogo} width="100px" height="100px" />
               </div>
               <div className=" mg-30" style={{ fontSize: "40px" }}>
                 <a>+</a>
               </div>
               <div className="">
-                <img src="./assets/logo.ong.png" width="100px" height="100px" />
+                <img src={wgpsLogo} width="100px" height="100px" />
               </div>
             </div>
           </div>
