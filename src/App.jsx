@@ -18,7 +18,7 @@ function App() {
             <div className=" frc ai-c " style={{ marginTop: "50px" }}>
               <div className="">
                 <img
-                  src="/src/assets/aot-logo2.png"
+                  src="./assets/apt-logo2.png"
                   width="100px"
                   height="100px"
                 />
@@ -27,11 +27,7 @@ function App() {
                 <a>+</a>
               </div>
               <div className="">
-                <img
-                  src="/src/assets/logo.ong.png"
-                  width="100px"
-                  height="100px"
-                />
+                <img src="./assets/logo.ong.png" width="100px" height="100px" />
               </div>
             </div>
           </div>
@@ -52,15 +48,13 @@ function App() {
             </div>
             <div className="bp9 fcc ai-c">
               <div className="box-button boxs-1 fcc ai-c">
-               
-                  <a
-                    href="https://www.whatsgps.com/#/login"
-                    class=""
-                    style={{ color: "white" }}
-                  >
-                    Click here to login
-                  </a>
-              
+                <a
+                  href="https://www.whatsgps.com/#/login"
+                  class=""
+                  style={{ color: "white" }}
+                >
+                  Click here to login
+                </a>
               </div>
             </div>
           </div>
